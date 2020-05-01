@@ -1,3 +1,13 @@
+import Lab1.RussianPeasant;
+import lab2.ThreeSumA;
+import lab2.ThreeSumB;
+import lab3.Fibonacci;
+import lab3.towersOfHanoi;
+import lab4.Sorting;
+import lab7.bruteForceSearch;
+import lab8.Trie;
+import lab9.RLE;
+
 public class Main {
 
 
