@@ -1,6 +1,5 @@
 
-
-import java.util.Arrays;
+package Lab6;
 import java.util.Random;
 
 /**
