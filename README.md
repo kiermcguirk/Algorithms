@@ -18,5 +18,8 @@ Running the Code
 Navigate to the Labs folder -> src -> Main.java and run the program.
 Programs can be run individually from inside their folders.
 
+The Documentation.pdf contains all of the analysis/documentation throughout each
+lab.
+
 Author
 Kier McGuirk - 18752609
