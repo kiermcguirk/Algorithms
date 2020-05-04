@@ -65,7 +65,7 @@ public class ThreeSumB {
         int[] a = in.readAllInts();
         final long startTime = System.currentTimeMillis();
         int count = count(a);
-        final long elapsedTime = (System.currentTimeMillis()-startTime);
+        final long elapsedTime = ( System.currentTimeMillis() - startTime );
         System.out.println("Time taken" + elapsedTime);
         System.out.println("count = " + count);
     }

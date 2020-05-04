@@ -50,7 +50,7 @@ public class ThreeSumA {
         System.out.println("**Practical 2 **\n");
         final long startTime = System.currentTimeMillis();
         int count = count(a);
-        final long elapsedTime = (startTime - System.currentTimeMillis())/1000;
+        final long elapsedTime = ( System.currentTimeMillis() - startTime );
         System.out.println("Time taken =  " + elapsedTime);
         System.out.println("count = " + count);
 
